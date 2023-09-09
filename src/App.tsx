@@ -2,6 +2,8 @@ import { Route, Routes } from "react-router-dom"
 import { About } from "./components/About.com"
 import { Portfolio } from "./pages/Portfolio.page"
 import Name from "./components/Name.com"
+import React from "react"
+
 
 export const App: React.FC<{}> = () => {
   return <>
