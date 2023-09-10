@@ -4,7 +4,7 @@ import { Portfolio } from "./pages/Portfolio.page"
 import Name from "./components/Name.com"
 import React from "react"
 
-
+//k
 export const App: React.FC<{}> = () => {
   return <>
   <Routes>
