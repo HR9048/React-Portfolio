@@ -1,7 +1,7 @@
 {
   
   "name": "react-portfolio",
-  "homepage": "https://github.com/HR9048/react-portfolio/blob/main/public/index.html",
+  "homepage": "https://github.com/HR9048/react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
